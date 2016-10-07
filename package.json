@@ -1,6 +1,6 @@
 {
   "name": "govuk_template_jinja",
-  "version": "0.18.2",
+  "version": "0.18.3",
   "description": "Jinja packaged version of the GOV.UK template",
   "keywords": ["alphagov", "govuk", "jinja", "template"],
   "bugs": "https://github.com/alphagov/govuk_template_jinja/issues",
